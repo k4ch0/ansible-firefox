@@ -35,7 +35,7 @@ addon_list:
   - name: multi-account-containers
     directory: "@testpilot-containers"
   
-  - name: 1password
+  - name: 1password-x-password-manager
     directory: "{d634138d-c276-4fc8-924b-40a0ea21d284}"
 
   - name: foxyproxy
@@ -46,6 +46,11 @@ search_engine_list:
     NAME: Search Google
     HREF: https://www.google.com/search?q=%s
     SHORTCUTURL: "g:"
+
+    - google:
+    NAME: Search Github
+    HREF: https://www.github.com/search?q=%s
+    SHORTCUTURL: "gh:"
 
   - startpage:
     NAME: startpage websearch
@@ -58,7 +63,7 @@ search_engine_list:
   - duckduckgo:
     NAME: Search DuckDuckGo — Privacy, simplified.
     HREF: https://duckduckgo.com/?q=%s
-    SHORTCUTURL: "ddg:"
+    SHORTCUTURL: "d:"
     POST_DATA: q%3D%25s
 
   - qwant:
