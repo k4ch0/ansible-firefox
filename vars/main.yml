@@ -83,3 +83,8 @@ search_engine_list:
     NAME: Search Invidious
     HREF: https://invidio.us/search?q=%s
     SHORTCUTURL: "yt:"
+
+  - one-wiki:
+    NAME: Search One-Wiki
+    HREF: https://one.rackspace.com/dosearchsite.action?queryString=%s
+    SHORTCUTURL: "ow:"
