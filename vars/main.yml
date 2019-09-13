@@ -47,7 +47,7 @@ search_engine_list:
     HREF: https://www.google.com/search?q=%s
     SHORTCUTURL: "g:"
 
-    - google:
+  - github:
     NAME: Search Github
     HREF: https://www.github.com/search?q=%s
     SHORTCUTURL: "gh:"
