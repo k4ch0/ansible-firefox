@@ -38,9 +38,15 @@ addon_list:
   - name: 1password-x-password-manager
     directory: "{d634138d-c276-4fc8-924b-40a0ea21d284}"
 
-  - name: foxyproxy
+  - name: foxyproxy-standard
     directory: "foxyproxy@eric.h.jung"
 
+  - name: tree-style-tab
+    directory: "treestyletab@piro.sakura.ne.jp"
+  
+  - name: toggl-button-time-tracker
+    directory: "toggl-button@toggl.com.xpi"
+    
 search_engine_list:
   - google:
     NAME: Search Google
