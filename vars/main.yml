@@ -45,8 +45,23 @@ addon_list:
     directory: "treestyletab@piro.sakura.ne.jp"
   
   - name: toggl-button-time-tracker
-    directory: "toggl-button@toggl.com.xpi"
-    
+    directory: "toggl-button@toggl.com"
+  
+  - name: todoist
+    directory: "support@todoist.com"
+
+  - name: tampermonkey
+    directory: "firefox@tampermonkey.net"
+
+  - name: tabliss
+    directory: "extension@tabliss.io"
+
+  - name: tab-counter-plus
+    directory: "tab-counter-plus@Loirooriol"
+  
+  - name: privacy-badger17
+    directory: "jid1-MnnxcxisBPnSXQ@jetpack"
+
 search_engine_list:
   - google:
     NAME: Search Google
