@@ -22,3 +22,11 @@
     owner: "{{ username }}"
     group: "{{ username }}"
     mode: 0644
+
+- name: add userChrome.css
+  copy:
+    src: files/chrome/userChrome.css
+    dest: "{{ profile_path }}/chrome/userChrome.css"
+    owner: "{{ username }}"
+    group: "{{ username }}"
+    mode: 0644
