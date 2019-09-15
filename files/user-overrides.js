@@ -41,3 +41,7 @@ user_pref("browser.urlbar.placeholderName", "keyword");
 user_pref("browser.newtabpage.activity-stream.default.sites", "");
 
 user_pref("browser.display.use_document_fonts", 1);
+
+//Edited by me
+user_pref("browser.startup.homepage", "data:text/plain,browser.startup.homepage=https://google.com")
+user_pref("browser.startup.page", 3);
