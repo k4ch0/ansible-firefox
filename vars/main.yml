@@ -67,7 +67,52 @@ addon_list:
 
   - name: grammarly-1
     directory: "87677a2c52b84ad3a151a4a72f5bd3c4@jetpack"
-    
+  
+  - name: github-file-icon
+    directory: "{85860b32-02a8-431a-b2b1-40fbd64c9c69}"
+  
+  - name: evernote-web-clipper
+    directory: "{E0B8C461-F8FB-49b4-8373-FE32E9252800}"
+  
+  - name: bukubrow
+    directory: "bukubrow@samhh.com"
+
+  - name: duckduckgo-for-firefox
+    directory: "jid1-ZAdIEUB7XOzOJw@jetpack"
+
+  - name: amazon-browser-bar
+    directory: "abb@amazon.com"
+  
+  - name: keepa
+    directory: "amptra@keepa.com"
+  
+  - name: flagfox
+    directory: "{1018e4d6-728f-4b20-ad56-37578a4de76b}"
+
+  - name: dont-touch-my-tabs
+    directory: "{6b938c0c-fc53-4f27-805f-619778631082}"
+
+  - name: imacros-for-firefox
+    directory: "{81BF1D23-5F17-408D-AC6B-BD6DF7CAF670}"
+
+  - name: ether-metamask
+    directory: "webextension@metamask.io"
+
+  - name: particle-iridium
+    directory: "iridium@particlecore.github.io"
+
+  - name: better-onetab
+    directory: "{f68ff8a5-b145-412b-bc29-b9374c427f82}"
+
+  - name: popup-blocker
+    directory: "{de22fd49-c9ab-4359-b722-b3febdc3a0b0}"
+
+
+
+
+
+
+
 search_engine_list:
   - google:
     NAME: Search Google
