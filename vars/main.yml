@@ -62,6 +62,12 @@ addon_list:
   - name: privacy-badger17
     directory: "jid1-MnnxcxisBPnSXQ@jetpack"
 
+  - name: honey
+    directory: "jid1-93CWPmRbVPjRQA@jetpack"
+
+  - name: grammarly-1
+    directory: "87677a2c52b84ad3a151a4a72f5bd3c4@jetpack"
+    
 search_engine_list:
   - google:
     NAME: Search Google
