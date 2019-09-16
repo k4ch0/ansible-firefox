@@ -45,3 +45,4 @@ user_pref("browser.display.use_document_fonts", 1);
 //Edited by me
 user_pref("browser.startup.homepage", "data:text/plain,browser.startup.homepage=https://google.com")
 user_pref("browser.startup.page", 3);
+user_pref("toolkit.legacyUserProfileCustomizations.stylesheets", true)
